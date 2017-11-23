@@ -1,1 +1,1 @@
-# react-learn
+# React.js framework | Tutorial based app
